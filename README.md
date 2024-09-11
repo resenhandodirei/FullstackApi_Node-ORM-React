@@ -105,6 +105,11 @@ Use o **Postman** para testar as rotas da API:
     │   ├── App.js
     │   └── index.js
 ```
+## Comandos
+
+| Comando | Explicação |
+| ----- | --------|
+| node --watch server.js | salva e dá restart no projeto automaticamente |
 
 ## Boas Práticas
 
